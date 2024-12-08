@@ -1,0 +1,1 @@
+The purpose of this practice question is to create a function that takes in two values and return the number of bits that they have in common, ie; same value at the same location. 
